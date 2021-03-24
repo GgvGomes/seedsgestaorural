@@ -1,6 +1,5 @@
 <?php
 include '../../includes/conexoes/index.php';
-
 ?>
 <script>
     var IdProduto = "";
